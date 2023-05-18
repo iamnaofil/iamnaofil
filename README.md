@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Momin Noafil</h1>
 <h3 align="center">A passionate Data Analyst Enthusiast </h3>
 
-
+<img src="https://github.com/iamnaofil/iamnaofil/blob/main/gif2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashpro729&label=Profile%20views&color=0e75b6&style=flat" alt="hashpro729" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashpro729" alt="hashpro729" /></a> </p>
