@@ -13,13 +13,11 @@
 
 - 🌱 I’m currently learning **Statistical modeling and hypothesis testing, Advanced Excel Tips and Tricks, Tableau BI Tools.**
 
-- 📝 I regularly write articles on [https://hashpro729.blogspot.com/](https://hashpro729.blogspot.com/)
-
 - 💬 Ask me about **Exploratory data analysis and aadvanced data visualization**
 
-- 📫 How to reach me **hashpro729@gmail.com**
+- 📫 Reach me at **hashpro729@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Social Media:</h3>
 <p align="left">
 <a href="https://twitter.com/hashpro729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hashpro729" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamnaofil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamnaofil" height="30" width="40" /></a>
