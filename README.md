@@ -7,7 +7,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashpro729" alt="hashpro729" /></a> </p>
-<img align="right" alt="analytics" width="400" style="padding: 200px;" src="https://github.com/iamnaofil/iamnaofil/blob/main/gif2.gif">
+<img align="right" alt="analytics" width="400" style="padding: 200px;" src="gif.gif">
 
 <p align="left"> <a href="https://twitter.com/hashpro729" target="blank"><img src="https://img.shields.io/twitter/follow/hashpro729?logo=twitter&style=for-the-badge" alt="hashpro729" /></a> </p>
 
