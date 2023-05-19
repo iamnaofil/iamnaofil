@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashpro729&label=Profile%20views&color=0e75b6&style=flat" alt="hashpro729" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashpro729" alt="hashpro729" /></a> </p>
+
 <img align="right" alt="analytics" width="400" style="padding: 200px;" src="gif.gif">
 
 <p align="left"> <a href="https://twitter.com/hashpro729" target="blank"><img src="https://img.shields.io/twitter/follow/hashpro729?logo=twitter&style=for-the-badge" alt="hashpro729" /></a> </p>
