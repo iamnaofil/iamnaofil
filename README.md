@@ -11,9 +11,14 @@
 
 <p align="left"> <a href="https://twitter.com/hashpro729" target="blank"><img src="https://img.shields.io/twitter/follow/hashpro729?logo=twitter&style=for-the-badge" alt="hashpro729" /></a> </p>
 
-- 🌱 I’m currently learning **Statistical modeling and hypothesis testing, Advanced Excel Tips and Tricks, Tableau BI Tools.**
+- 🌱 Hands-on Experience in  **Advanced Excel, Data Analysis, Tips and Tricks, Power BI Dashboarding.**
 
-- 💬 Ask me about **Exploratory data analysis and aadvanced data visualization**
+- 💬 Ask me about **Exploratory Data Analysis and Advanced Data visualization**
+
+-👨‍💻 Pursuing **Machine Learning Models and Exploring AI Tools**
+
+-📄 Know about my experiences: **1) Freelance with Business Associate of Brokering Firm Motilal Oswal Pvt. Ltd.
+                                 2) Field Engineer with Multiple Internet Service Provider in Hardware Networking Domain**
 
 - 📫 Reach me at **hashpro729@gmail.com**
 
