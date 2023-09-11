@@ -12,9 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/hashpro729" target="blank"><img src="https://img.shields.io/twitter/follow/hashpro729?logo=twitter&style=for-the-badge" alt="hashpro729" /></a> </p>
 
-- 🌱 Hands-on Experience in  **Advanced Excel, Data Analysis, Tips and Tricks, Power BI Dashboarding.**
+- 📌 I’m looking to opportunity for **Data Analyst Role Where I can utilise my skills**
 
-- 💬 Ask me about **Exploratory Data Analysis and Advanced Data visualization**
+- 🌱 Hands-on Experience in  **Advanced Excel, Data Analysis, Tips and Tricks, Power BI Dashboarding.  MySQL, postgreSQL**
+
+- 💬 Ask me about **Python library : Numpy, Pandas Data Exploration**
 
 -👨‍💻 Pursuing **Machine Learning Models and Exploring AI Tools**
 
