@@ -10,7 +10,7 @@
 <img align="right" alt="analytics" width="400" style="padding: 200px;" src="gif.gif">
 
 
-<p align="left"> <a href="https://twitter.com/hashpro729" target="blank"><img src="https://img.shields.io/twitter/follow/hashpro729?logo=twitter&style=for-the-badge" alt="hashpro729" /></a> </p>
+<p align="left"> <a href="https://x.com/iam_naofil" target="blank"><img src="https://img.shields.io/twitter/follow/iam_naofil?logo=twitter&style=for-the-badge" alt="hashpro729" /></a> </p>
 
 - 📌 I’m looking to opportunity for **Data Analyst Role Where I can utilise my skills**
 
