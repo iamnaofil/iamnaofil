@@ -18,8 +18,14 @@
 
 -👨‍💻 Pursuing **Machine Learning Models and Exploring AI Tools**
 
--📄 Know about my experiences: **1) Freelance with Business Associate of Brokering Firm Motilal Oswal Pvt. Ltd.
-                                 2) Field Engineer with Multiple Internet Service Provider in Hardware Networking Domain**
+-📄 Know about my experiences:
+
+
+**1) Data Analyst Intern at MerSkill**
+
+**2) Freelance with Business Associate of Brokering Firm Motilal Oswal Pvt. Ltd.**
+                               
+  **3) Field Engineer with Multiple Internet Service Provider in Hardware Networking Domain**
 
 - 📫 Reach me at **hashpro729@gmail.com**
 
